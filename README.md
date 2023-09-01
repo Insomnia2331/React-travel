@@ -4,7 +4,7 @@
 * Different device interface sizes will display different page formats
   
   
-Some Screenshots:
+Some Screenshots:  
 ![image](https://github.com/Insomnia2331/React-travel/assets/103230242/233b1047-30aa-4539-95c1-4e43bd617be8)  
   
 
