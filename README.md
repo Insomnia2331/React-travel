@@ -24,6 +24,8 @@ Some Screenshots:
 
 
 # Website address  
+Please check the link to visit this page: https://travel-jack-wang.netlify.app/    
+#  
   
 # How to run on your local machine:
 * Type 'npm install' to install any necessary packages and dependencies.  
