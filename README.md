@@ -26,7 +26,7 @@ Some Screenshots:
 # Website address  
   
 # How to run on your local machine:
-* Type npm install to install any necessary packages and dependencies.  
-* Type npm start to start the project on localhost.  
+* Type 'npm install' to install any necessary packages and dependencies.  
+* Type 'npm start' to start the project on localhost.  
 * Open the http://localhost:3000/ in your browser.  
 * Project is running now, well done.  
